@@ -1,0 +1,27 @@
+.textalign {
+    text-align: left;
+}
+.align-items-left {
+    align-items: left !important;
+  }
+  .text-left {
+    text-align: left !important;
+  }
+.background {
+    background-color: beige;
+}
+.body1 {
+    color: blue;
+}
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+.body2 {
+  color: blueviolet;
+}
+.body3 {
+  color: brown;
+}
+.textcenter {
+  text-align: center !important;
+}
